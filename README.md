@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **any Open Source Project**
 
-- 👨‍💻 All of my projects are available at [RojiRajan3](RojiRajan3)
-
 - 💬 Ask me about **Tech related Stuff**
 
 - 📫 How to reach me **rojirajan222@gmail.com**
